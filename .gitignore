@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+
+# Source documents and generated local Qdrant state may be private or large.
+data/
